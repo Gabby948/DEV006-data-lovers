@@ -33,10 +33,15 @@ https://trello.com/invite/b/HxtOxIpA/ATTIa03ae414962624bca2eabd37f69e25d17F5E940
 
 Low and High Fidelity prototypes created in Figma.
 
+Low-fidelity prototype.
 
 ![image](https://github.com/Gabby948/DEV006-data-lovers/assets/125084134/de592cc4-abf4-43dd-8bee-00f7f47a4ece)
 
+High-fidelity prototype.
+
 ![image](https://github.com/Gabby948/DEV006-data-lovers/assets/125084134/b9145446-5483-4409-b568-1cb781a6c9b7)
+
+Mobile Prototype.
 
 ![image](https://github.com/Gabby948/DEV006-data-lovers/assets/125084134/64fc8f26-9138-4f78-973f-735950c911b8)
 
@@ -48,6 +53,7 @@ https://www.figma.com/file/c1q6DbPGrSl4gX2XrgG0vS/ALTA-FIDELIDAD%2F-MOBILE-POKEM
 ## UNIT TESTS🧾
 
 Unit tests are a fundamental part of our project to guarantee the quality and stability of the code, allowing me to detect and correct errors efficiently.
+
 ![image](https://github.com/Gabby948/DEV006-data-lovers/assets/125084134/954b375b-a691-48d9-814e-be7db303a481)
 
 
